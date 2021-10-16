@@ -20,3 +20,59 @@ li a:hover {
  font-weight: bolder;
 }
 
+/*main*/
+
+h1 {
+  margin: 30px;
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: center;
+  font-family: 'Fredoka One', cursive;
+}
+
+
+p {
+  line-height: 1.8;
+  text-align: justify;
+  margin: 0rem 5rem;
+}
+
+/* Finn and Jake */
+
+.idk {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Fredoka One', cursive;
+  /*animate*/
+  animation-name: idk;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes idk {
+  from {
+    color:#5f7eda
+  }
+  to {
+    color: salmon
+  }
+}
+
+/* "click BMO to make him happy" */
+
+h2 {
+  font-family: 'Fredoka One', cursive;
+  margin: 30px;
+  animation-name: wiggle;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes wiggle {
+  from {
+    transform: rotate(10deg)
+  }
+  to {
+    transform: rotate(-15deg)
+  }
+}

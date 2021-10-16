@@ -17,7 +17,7 @@ header {
   box-shadow: 2px 2px 3px black;
   /*animation*/
   animation-name: groove;
-  animation-duration: 8s;
+  animation-duration: 5s;
   animation-iteration-count: infinite;
 }
 
@@ -71,35 +71,66 @@ nav {
 /* main */
 /********/
 
-
-/* TODO: Fix vertical scroll and mobile view */
 main {
   display: flex;
   justify-content: flex-start;
   align-items: center;
   flex-direction: column;
-  height: 100vh;
-  width: 70vw;
+  height: auto;
+  width: 80vw;
   margin: 30px auto;
-  background-color: white;
-  text-align: center;
+  overflow-y: hidden;
   padding: 20px;
-  font-family: 'Varela Round', sans-serif;
-  font-size: 15px;
   border-radius: 10px;
+  /*prettify*/
+  background-color: white;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 15px;  
 }
 
-h1 {
-  margin: 30px;
-  font-size: 30px;
-  font-weight: bolder;
+/* png container */
+
+.characters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
-
-p {
-  line-height: 1.8;
+.bmo {
+  height: auto;
+  width: 15rem;
+  cursor: pointer;
+  filter: drop-shadow(1px 1px 2px black) saturate(0.5);
 }
 
+.finn {
+  height: 25rem;
+  width: 15rem;
+  filter: drop-shadow(1px 1px 2px black);
+  transform: translateX(200%);
+  transition: all 350ms;
+}
+
+.jake {
+  height: 15rem;
+  width: 12rem;
+  filter: drop-shadow(1px 1px 2px black);
+  transform: translateX(200%);
+  transition: all 350ms;
+}
+
+/* footer design */
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+  background-image: linear-gradient(#c2ffff, #3ddab4, #6c78e0);
+  box-shadow: 2px 2px 3px black;
+}
 
 /* modifier */
 
@@ -111,4 +142,18 @@ p {
   transform: rotate(90deg);
   transition-duration: 1s;
   filter: invert(1) drop-shadow(1px 1px 2px black);
+}
+
+/*show BMO's friends*/
+
+.show-finn {
+  transform: translate(0);
+}
+
+.show-jake {
+  transform: translate(0);
+}
+
+.bmo-color {
+  filter: saturate(1);
 }
