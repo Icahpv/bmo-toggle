@@ -16,8 +16,13 @@ classList Toggle by **Icah Vega**
 
 **Font** - [Varela Round](https://fonts.google.com/specimen/Varela+Round?query=varela) by [Google Fonts](https://fonts.google.com/)
 
+#### Reference
 
-#### Attributions
+- [Who is BMO?](https://adventuretime.fandom.com/wiki/BMO)
+
+##### Attributions
 
 - John Paul Adobas: Code help.
 - Norvillie Villaruel: Javascript guidance.
+
+
