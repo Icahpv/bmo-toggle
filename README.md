@@ -10,7 +10,6 @@ Instructor: Tony Grimes
 - [Github Repo Link](https://github.com/Icahpv/cpnt262-a1.git)
 - [Github Pages Link:](https://icahpv.github.io/cpnt262-a1/) 
 
----
 
 
 ## About the assignment
