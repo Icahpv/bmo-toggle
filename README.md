@@ -19,5 +19,5 @@ classList Toggle by **Icah Vega**
 
 #### Attributions
 
-John Paul Adobas: Code help.
-Norvillie Villaruel: Javascript guidance.
+- John Paul Adobas: Code help.
+- Norvillie Villaruel: Javascript guidance.
