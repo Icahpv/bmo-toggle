@@ -1,8 +1,8 @@
 # CPNT262-a1
 classList Toggle by **Icah Vega**
 
-[Github Repo Link](https://github.com/Icahpv/cpnt262-a1.git)
-[Github Pages Link:](https://icahpv.github.io/cpnt262-a1/) 
+- [Github Repo Link](https://github.com/Icahpv/cpnt262-a1.git)
+- [Github Pages Link:](https://icahpv.github.io/cpnt262-a1/) 
 
 ## About the assignment
 
@@ -10,7 +10,7 @@ classList Toggle by **Icah Vega**
 
 ### Assets
 
-**Hamburger Menu** - by [Fasil](https://freeicons.io/profile/722) by [Freeicons.io](https://freeicons.io/)
+**Hamburger Menu** - by [Fasil](https://freeicons.io/profile/722) from [Freeicons.io](https://freeicons.io/)
 
 **Logo** - [BMO Glass Icon](https://icons8.com/icon/hOrSXhBz2aOQ/bmo) by [Icons8](https://icons8.com/)
 
@@ -24,5 +24,11 @@ classList Toggle by **Icah Vega**
 
 - John Paul Adobas: Code help.
 - Norvillie Villaruel: Javascript guidance.
+
+
+
+
+
+[MIT License](https://github.com/Icahpv/cpnt262-a1/blob/621c22247462431a30507a83906fba8fc8014f02/LICENSE)
 
 
