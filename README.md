@@ -47,8 +47,7 @@ This page is about one of my favorite characters in the TV show  `Adventure Time
 - [W3S](https://www.w3schools.com/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
-
----git 
+---
 
 ##### Attributions
 
