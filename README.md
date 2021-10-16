@@ -15,7 +15,7 @@ Instructor: Tony Grimes
 ## About the assignment
 
 
-This page is about one of my favorite characters in the TV show  `Adventure Time`, his name is `BMO`. In order for me to make the navigation bar pop in and out, I used javascript's ```classList.toggle``` element. I also used the same element to make BMO's friends appear.
+This page is about one of my favorite characters in the TV show  *Adventure Time*, his name is *BMO*. In order for me to make the navigation bar pop in and out, I used javascript's ```classList.toggle``` element. I also used the same element to make BMO's friends appear.
 
 ---
 
