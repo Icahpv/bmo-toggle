@@ -1,6 +1,8 @@
 # CPNT262-a1
 classList Toggle by **Icah Vega**
+
 Fall 2021
+
 Instructor: Tony Grimes
 
 
@@ -8,7 +10,7 @@ Instructor: Tony Grimes
 - [Github Repo Link](https://github.com/Icahpv/cpnt262-a1.git)
 - [Github Pages Link:](https://icahpv.github.io/cpnt262-a1/) 
 
-
+---
 
 
 ## About the assignment
@@ -16,7 +18,7 @@ Instructor: Tony Grimes
 
 This page is about one of my favorite characters in the TV show  `Adventure Time`, his name is `BMO`. In order for me to make the navigation bar pop in and out, I used javascript's ```classList.toggle``` element. I also used the same element to make BMO's friends appear.
 
-
+---
 
 
 ### Assets
@@ -36,7 +38,7 @@ This page is about one of my favorite characters in the TV show  `Adventure Time
 **Jake** - [Jake the Dog](https://www.stickpng.com/img/cartoons/adventure-time/adventure-time-jake-the-dog) by by [StickPNG](https://www.stickpng.com/)
 
 
-
+---
 
 #### Reference
 
@@ -46,7 +48,7 @@ This page is about one of my favorite characters in the TV show  `Adventure Time
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 
-
+---git 
 
 ##### Attributions
 
